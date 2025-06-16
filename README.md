@@ -1,5 +1,5 @@
- **Empower-Ed: Teachers and Mentors learning and development system for Remedial Support, Skills Training and Mentorship programs for students and mentees**
- 
+**** **Empower-Ed: Teachers and Mentors learning and development system for Remedial Support, Skills Training and Mentorship programs for students and mentees************
+
 **** Team Members & Roles**
 Grace Gathoni Mugo 
 Project ideation and execution 
