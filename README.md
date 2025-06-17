@@ -43,16 +43,16 @@ Sports coaches (football, swimming, basketball, martial arts like Karate, Tae Kw
 
 
 **Project Timelines**
-## 📅 High-Level Project Timeline
+
 
 | Phase                      | Description                                                                                   | Duration           |
 |----------------------------|----------------------------------------------------------------------------|---------------------------------------|
 | Project Planning & Research | Define objectives, gather requirements, conduct market research                              | Week 1 – Week 2    |
-| Project Documentation       | Primary and Secondary Research Report                                                        | Week 3             |
+| Project Documentation       | Primary and Secondary Research Report                                                        | Week 3 -Week 4     |
 | System Design               | Design UML diagrams, user interface (UI), user experience (UX) workflows                     | Week 5             |
-| Development Phase 1         | Develop core functionalities: user login, student data management, appointment scheduling    | Week 5 – Week 6    |
-| Development Phase 2         | Develop performance tracking, assignments, feedback system, progress reports                 | Week 7 – Week 9    |
-| Testing & Quality Assurance | Conduct functional testing, user acceptance testing, bug fixing                              | Week 10 – Week 11  |
+| Development Phase 1         | Develop core functionalities: user login, student data management, appointment scheduling    | Week 6 – Week 9    |
+| Development Phase 2         | Develop performance tracking, assignments, feedback system, progress reports                 | Week 9  -Week 10   |
+| Testing & Quality Assurance | Conduct functional testing, user acceptance testing, bug fixing                              | Week 11            |
 | Deployment & User Training  | Deploy system, provide user guides or training sessions                                      | Week 12            |
 | Project Review & Closure    | Final documentation, collect user feedback, evaluate project outcomes                        | Week 13 and 14     |
 
