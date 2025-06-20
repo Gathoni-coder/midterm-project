@@ -62,5 +62,4 @@ Sports coaches (football, swimming, basketball, martial arts like Karate, Tae Kw
 [View the Project Board](https://github.com/users/Gathoni-coder/projects/2)
 
 **Traceability Matrix**
-[View the Traceability Matrix](TRACEABILITY_MATRIX.md)
-
+[Traceability Matrix](docs/TRACEABILITY_MATRIX.md)
