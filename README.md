@@ -44,14 +44,22 @@ Sports coaches (football, swimming, basketball, martial arts like Karate, Tae Kw
 **This project will employ the following technology stack for its development and data storage.**
 
 **Firebase Backend:** Firebase Realtime Database for storing data,Firebase Auth for secure login and Firebase Cloud Storage for documents or images
+
 **Advantage:**
+
 Scalable, real-time sync, and easy to integrate with Android
+
 **Authentication**
+
  **Firebase Authentication**
        Supports email/password, Google login, role-based access
+       
 **Programming Language**
+
         Android Studio provides first-class support for Kotlin.
+	
   **Kotlin**
+  
  Modern programming language and  fully supported by google for Android development
 
 
