@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "347945658843",
+    "project_id": "empowered-91891",
+    "storage_bucket": "empowered-91891.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:347945658843:android:693c5533d16676b22f5ffe",
+        "android_client_info": {
+          "package_name": "com.gathoni.empowered"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyARGEeP-9E513Y_77eNTuDXfh914UmJJ4c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/assignStrandLayout"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="20dp"
+    android:background="@android:color/white">
+
+    <!-- Header -->
+    <TextView
+        android:id="@+id/txtAssignHeader"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Assign Strand and Sub-Strand"
+        android:textSize="25sp"
+        android:textStyle="bold"
+        android:gravity="center"
+        android:paddingBottom="30dp" />
+
+    <!-- Student Info -->
+    <TextView
+        android:id="@+id/txtStudentInfo"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Student: [Name] | Subject: [Subject]"
+        android:textSize="20sp"
+        android:paddingBottom="20dp" />
+
+    <!-- Strand Spinner and Add Button -->
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:gravity="center_vertical"
+        android:layout_marginBottom="20dp">
+
+        <Spinner
+            android:id="@+id/spinnerStrands"
+            android:layout_width="10dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="15" />
+
+        <ImageButton
+            android:id="@+id/btnAddStrand"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:src="@android:drawable/ic_input_add"
+            android:contentDescription="Add Strand"
+            android:background="?attr/selectableItemBackgroundBorderless"
+            android:padding="20dp" />
+    </LinearLayout>
+
+    <!-- Sub-strand Spinner and Add Button -->
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:gravity="center_vertical"
+        android:layout_marginBottom="40dp">
+
+        <Spinner
+            android:id="@+id/spinnerSubStrands"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1" />
+
+        <ImageButton
+            android:id="@+id/btnAddSubStrand"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:src="@android:drawable/ic_input_add"
+            android:contentDescription="Add Sub-Strand"
+            android:background="?attr/selectableItemBackgroundBorderless"
+            android:padding="20dp" />
+    </LinearLayout>
+
+    <!-- Confirm Button -->
+    <Button
+        android:id="@+id/btnConfirmAssignment"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Confirm lesson"
+        android:backgroundTint="@color/purple_500"
+        android:textColor="@android:color/white"
+        android:textStyle="bold"
+        android:padding="20dp" />
+</LinearLayout>
+

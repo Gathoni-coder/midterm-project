@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="16dp">
+
+    <TextView
+        android:id="@+id/tvStudentName"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Student: John Doe"
+        android:textSize="18sp"
+        android:textStyle="bold" />
+
+    <TextView
+        android:id="@+id/tvStrandName"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Strand: Geometry"
+        android:textSize="16sp"
+        android:layout_marginTop="8dp" />
+
+    <EditText
+        android:id="@+id/etLessonOutcome"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Lesson Outcome"
+        android:minHeight="100dp"
+        android:gravity="top"
+        android:inputType="textMultiLine"
+        android:layout_marginTop="16dp" />
+
+    <EditText
+        android:id="@+id/etAreasForImprovement"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Areas for Improvement"
+        android:minHeight="100dp"
+        android:gravity="top"
+        android:inputType="textMultiLine"
+        android:layout_marginTop="16dp" />
+
+    <Button
+        android:id="@+id/btnSaveOutcome"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Save Outcome"
+        android:layout_marginTop="20dp" />
+</LinearLayout>
+
+
+
