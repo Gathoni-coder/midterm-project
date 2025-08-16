@@ -3,7 +3,7 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:orientation="vertical"
-    android:padding="16dp"
+    android:padding="18dp"
     android:background="#FAFAFA">
 
     <TextView
@@ -13,7 +13,7 @@
         android:text="Select Student"
         android:textSize="20sp"
         android:textStyle="bold"
-        android:paddingBottom="8dp"
+        android:paddingBottom="15dp"
         android:gravity="center" />
 
     <androidx.recyclerview.widget.RecyclerView
